@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../VSCode_projects/python_projects/Isabel/del1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML CSS"
+	}
+}
